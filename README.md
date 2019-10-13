@@ -1,7 +1,7 @@
 ---
 title: "Le chi²"
 author: "Stéphane Jaubert"
-date: "`r format(Sys.time(), ' %d %B %Y')`"
+date: ""
 output:
   html_document: default
   pdf_document: default
